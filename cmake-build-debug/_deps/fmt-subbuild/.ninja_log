@@ -1,0 +1,21 @@
+# ninja log v5
+0	25	7024237500825893	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	cc631f7e5f54158b
+0	25	7024237500825893	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	cc631f7e5f54158b
+26	3245	7024237533022445	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	9d0a9901935cfbfd
+26	3245	7024237533022445	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	9d0a9901935cfbfd
+3245	3295	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	8d54aa4f177f3a37
+3245	3295	0	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	8d54aa4f177f3a37
+3296	3318	7024237533750206	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	a64949981460d7ae
+3296	3318	7024237533750206	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	a64949981460d7ae
+3318	3341	7024237533979460	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	cc7de22f7eb495e1
+3318	3341	7024237533979460	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	cc7de22f7eb495e1
+3341	3364	7024237534208844	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	5be7877a13d41624
+3341	3364	7024237534208844	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	5be7877a13d41624
+3365	3386	7024237534438230	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	50a64135035293c7
+3365	3386	7024237534438230	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	50a64135035293c7
+3386	3408	7024237534647219	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	97e54bb76e9f106d
+3386	3408	7024237534647219	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	97e54bb76e9f106d
+3408	3438	7024237534950965	CMakeFiles/fmt-populate-complete	cb4a910a3b24c4c5
+3408	3438	7024237534950965	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	cb4a910a3b24c4c5
+3408	3438	7024237534950965	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	cb4a910a3b24c4c5
+3408	3438	7024237534950965	C:/Users/Putin/Desktop/PJCTasks/task5/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	cb4a910a3b24c4c5
